@@ -70,7 +70,7 @@ void setup() {
   f2 = createFont("Gotham-Book", 100, true);  
   textAlign(CENTER);
   
-  audio = new SoundFile(this, "/Users/CadenceDaniels/Google Drive/Spring 2017/Interactive Installations (DM-GY 9103)/Project III/play.wav");
+  audio = new SoundFile(this, "/Users/CadenceDaniels/Google Drive/Spring 2017/Interactive Installations (DM-GY 9103)/Project III (Final)/Media/play.wav");
   audio.loop();
 }
 
